@@ -1,2 +1,2 @@
-# horseball
+# Horseball
 Horseball Results
