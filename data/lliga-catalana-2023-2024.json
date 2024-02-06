@@ -1,0 +1,197 @@
+{
+    "jornades": [ 
+        {
+
+            "data": "08-10-2023",
+            "jornada": "1",
+            "lloc": "GT",
+            "partits": [
+                    {
+                      "hora": "11:00",
+                      "categoria": "Sub 10",
+                      "equip_1": "Hipic GT",
+                      "gols_equip_1": 5,
+                      "gols_equip_2": 4,
+                      "equip_2": "Alforges"
+                    },
+                    {
+                      "hora": "16:20",
+                      "categoria": "Femení",
+                      "equip_1": "Esparraguera",
+                      "gols_equip_1": 10,
+                      "gols_equip_2": 3,
+                      "equip_2": "Hipic GT"
+                    }
+            ]
+
+        },
+        {
+            "data": "22-10-2023",
+            "jornada": "2",
+            "lloc": "Esparraguera",
+            "partits": [
+                {
+                    "hora": "13:40",
+                    "categoria": "Sub 10",
+                    "equip_1": "Hipic GT",
+                    "gols_equip_1": 9,
+                    "gols_equip_2": 7,
+                    "equip_2": "CEEC"
+                }
+            ]
+
+        },
+        {
+            "data": "05-11-23",
+            "jornada": "3",
+            "lloc": "La Saga",
+            "partits": [
+                {
+                    "hora": "14:20",
+                    "categoria": "Femení",
+                    "equip_1": "Alforges",
+                    "gols_equip_1": 5,
+                    "gols_equip_2": 5,
+                    "equip_2": "Hipic GT"
+                  }
+            ]
+
+        },
+        {
+            "data": "19-11-2024",
+            "jornada": "5",
+            "lloc": "CEEC",
+            "partits": [
+                {
+                    "hora": "12:50",
+                    "categoria": "Femení",
+                    "equip_1": "CEEC",
+                    "gols_equip_1": 7,
+                    "gols_equip_2": 3,
+                    "equip_2": "Hipic GT"
+                }
+            ]
+
+        },
+        {
+            "data": "14-01-2024",
+            "jornada": "7",
+            "lloc": "GT",
+            "partits": [ 
+                {
+                    "hora": "11:50",
+                    "categoria": "Sub 10",
+                    "equip_1": "Hipic GT",
+                    "gols_equip_1": 2,
+                    "gols_equip_2": 0,
+                    "equip_2": "Garrotxa"
+                }
+            ]
+        },
+        {
+            "data": "04-02-2024",
+            "jornada": "8",
+            "lloc": "Osona Horses",
+            "partits": [ 
+                {
+                    "hora": "14:50",
+                    "categoria": "Femení",
+                    "equip_1": "La Saga",
+                    "gols_equip_1": 8,
+                    "gols_equip_2": 5,
+                    "equip_2": "Hipic GT"
+                }
+            ]
+        },
+        {
+            "data": "11-02-2024",
+            "jornada": "9",
+            "lloc": "Esparraguera",
+            "partits": [ 
+                {
+                    "hora": "12:30",
+                    "categoria": "Sub 10",
+                    "equip_1": "Hipic GT",
+                    "gols_equip_1": "",
+                    "gols_equip_2": "",
+                    "equip_2": "Equillet"
+                }
+            ]
+        },
+        {
+            "data": "25-02-2024",
+            "jornada": "10",
+            "lloc": "Banyoles",
+            "partits": [ 
+                {
+                    "hora": "12:30",
+                    "categoria": "Femení",
+                    "equip_1": "Hipic GT",
+                    "gols_equip_1": "",
+                    "gols_equip_2": "",
+                    "equip_2": "Equillet"
+                }
+            ]
+        },
+        {
+            "data": "03-03-2024",
+            "jornada": "11",
+            "lloc": "GT",
+            "partits": [ 
+                {
+                    "hora": "14:10",
+                    "categoria": "Sub 10",
+                    "equip_1": "Hipic GT",
+                    "gols_equip_1": "",
+                    "gols_equip_2": "",
+                    "equip_2": "Poni Club"
+                }
+            ]
+        },
+        {
+            "data": "14-04-2024",
+            "jornada": "14",
+            "lloc": "Miami",
+            "partits": [ 
+                {
+                    "hora": "15:10",
+                    "categoria": "Sub 10",
+                    "equip_1": "La Saga",
+                    "gols_equip_1": "",
+                    "gols_equip_2": "",
+                    "equip_2": "Hipic GT"
+                }
+            ]
+        },
+        {
+            "data": "19-05-2024",
+            "jornada": "16",
+            "lloc": "Osona Horses",
+            "partits": [ 
+                {
+                    "hora": "11:10",
+                    "categoria": "Femení",
+                    "equip_1": "Hipic GT",
+                    "gols_equip_1": "",
+                    "gols_equip_2": "",
+                    "equip_2": "Banyoles"
+                }
+            ]
+        },
+        {
+            "data": "16-06-2024",
+            "jornada": "19",
+            "lloc": "Banyoles",
+            "partits": [ 
+                {
+                    "hora": "14:30",
+                    "categoria": "Femení",
+                    "equip_1": "Miami",
+                    "gols_equip_1": "",
+                    "gols_equip_2": "",
+                    "equip_2": "Hipic GT"
+                }
+            ]
+        }
+    ]
+}
